@@ -1,5 +1,13 @@
-#Project Overview
-This repository contains the source code and documentation for a cutting-edge Carbon Credit Trading Platform. The platform is designed to align with the transaction matching protocols used in the Taiwan Stock Exchange, incorporating both limit and market order functionalities. This approach allows users to experience a trading environment that closely mimics real-world stock market operations.
+# Carbon Credit Trading Platform
 
-#Market Simulation
-In its current iteration, the platform operates within a simulated virtual market environment. A key feature of this environment is the deployment of sophisticated market-making bots. These bots are programmed to execute orders randomly within the market, thereby infusing liquidity and maintaining an active trading atmosphere. This strategy not only simulates a realistic market scenario but also ensures continuous engagement within the platform, especially crucial during the early stages of deployment.
+## Project Overview
+
+This repository hosts the Carbon Credit Trading Platform, a state-of-the-art solution for carbon credit trading. Designed to mirror the transaction matching protocols of the Taiwan Stock Exchange, it offers a realistic and sophisticated trading experience with options for limit and market orders.
+
+## Features
+
+- **Transaction Matching**: Implements a matching system akin to the Taiwan Stock Exchange.
+- **Order Types**: Supports both limit and market orders, providing flexibility in trading strategies.
+- **Virtual Market Environment**: Operates in a simulated market, enhancing user experience and understanding.
+- **Market-Making Bots**: Utilizes automated bots to simulate market liquidity and activity.
+
